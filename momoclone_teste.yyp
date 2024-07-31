@@ -29,6 +29,7 @@
   },
   "name":"momoclone_teste",
   "resources":[
+    {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
     {"id":{"name":"oChao","path":"objects/oChao/oChao.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
