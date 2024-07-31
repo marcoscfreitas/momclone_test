@@ -6,10 +6,11 @@ var chao = place_meeting(x ,y+1, oChao)
 
 //controles, checa se sao true valores teclas pressionadas
 
-var movLeft, movRight, movJump;
+var movLeft, movRight, movJump, movCrouch;
 movLeft = keyboard_check(inputs.left);
 movRight = keyboard_check(inputs.right);
 movJump = keyboard_check_pressed(inputs.jump);
+movCrouch = keyboard_check_pressed(inputs.crouch);
 
 velh = (movRight - movLeft) * vel;
 

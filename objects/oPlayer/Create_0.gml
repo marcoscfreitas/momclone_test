@@ -6,9 +6,11 @@ velv = 0;
 vel = 6;
 vel_jump = 8;
 grav = .3;
+global.moedas_coletadas = 0;
 
 inputs = {
 	left: vk_left,
 	right: vk_right,
-	jump: vk_up
+	jump: vk_up,
+	crouch: vk_down
 }
