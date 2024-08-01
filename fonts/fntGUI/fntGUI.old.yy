@@ -1,6 +1,6 @@
 {
   "$GMFont":"",
-  "%Name":"fontePixel",
+  "%Name":"fntGUI",
   "AntiAlias":1,
   "applyKerning":0,
   "ascender":17,
@@ -117,7 +117,7 @@
   "last":0,
   "lineHeight":23,
   "maintainGms1Font":false,
-  "name":"fontePixel",
+  "name":"fntGUI",
   "parent":{
     "name":"Objetos",
     "path":"folders/Objetos.yy",
